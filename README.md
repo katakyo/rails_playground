@@ -1,2 +1,2 @@
 # rails_playground
-パーフェクトRails勉強用のリポジトリ
+パーフェクトRuby on Rails勉強用のリポジトリ
